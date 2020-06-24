@@ -1,0 +1,10 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "cloning Youtbue with Vanilla and NodeJs",
+  "main": "index.js",
+  "author": "Kurosawa Ruby",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
